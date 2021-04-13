@@ -1,4 +1,4 @@
 ADMIN
-For admin login click on the admin login then provide username and password
+For admin login
 Email id : admin
 Passowrd : admin
